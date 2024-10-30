@@ -1,4 +1,4 @@
-                          # PET MANAGER APP
+# PET MANAGER APP
 
 ![alt text](app.png)
 ## ADRIAN KWAŚNIK
